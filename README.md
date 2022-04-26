@@ -1,2 +1,2 @@
-# Dearpygui-
+# Dearpygui
 Here goes dpg 
